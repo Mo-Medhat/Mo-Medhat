@@ -53,4 +53,3 @@ I enjoy turning complex problems into clean and intuitive user interfaces using 
 
 ## 📊 GitHub Stats
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Mo-Medhat&layout=compact&theme=tokyonight)
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=Mo-Medhat&show_icons=true&theme=tokyonight)
